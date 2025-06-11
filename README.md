@@ -2,6 +2,9 @@
 
 A simple and responsive personal portfolio website built using HTML, CSS, and a touch of JavaScript. This project serves as a demonstration of my frontend development skills and showcases my journey from an Electronics & Communication Engineering background into software development.
 
+##  🔗 Live Demo
+👉 [Visit Portfolio](https://designwithrehana.github.io/Responsive-portfolio/)
+
 ## Features
 
 * **Responsive Design:** Adapts to different screen sizes (desktops, tablets, mobile phones).
@@ -15,7 +18,7 @@ A simple and responsive personal portfolio website built using HTML, CSS, and a 
     * **Extra Curricular Activities:** Various roles and positions i held
     * **Contact:** Ways to get in touch.
 
-## Tech Stack
+##  🛠️ Tech Stack
 
 * HTML5 - semantic structure
 * CSS3 - styling ,responsive layout,animations
