@@ -8,30 +8,25 @@ A simple and responsive personal portfolio website built using HTML, CSS, and a 
 * **Smooth Scrolling:** Enhances user experience when navigating between sections.
 * **Sections:**
     * **About Me:** Introduction and background.
+    * **Education:** Overview about it 
+    * **Work Experience:** Overview of work implemented
     * **Skills:** Overview of technical abilities (programming languages, EC concepts, tools).
     * **Projects:** Showcase of personal projects with descriptions and GitHub links.
+    * **Extra Curricular Activities:** Various roles and positions i held
     * **Contact:** Ways to get in touch.
 
-## Technologies Used
+## Tech Stack
 
-* HTML5
-* CSS3
-* JavaScript (for smooth scrolling)
-* Font Awesome (for icons)
+* HTML5 - semantic structure
+* CSS3 - styling ,responsive layout,animations
+* JavaScript- for smooth scrolling
+* Font Awesome -for icons
 
 ## How to View
 
 1.  Clone the repository: `git clone https://github.com/yourusername/my-personal-portfolio.git`
 2.  Navigate to the project directory: `cd my-personal-portfolio`
 3.  Open `index.html` in your web browser.
-
-## Future Enhancements
-
-* Adding more projects.
-* Implementing a live contact form (requires backend).
-* Improving animations and transitions.
-* Learning and integrating a JavaScript framework (e.g., React).
-
 ---
 
 **Connect with me:**
