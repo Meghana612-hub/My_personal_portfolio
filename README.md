@@ -1,11 +1,11 @@
-# My Personal Portfolio Website
+#🌐 My Personal Portfolio Website
 
 A simple and responsive personal portfolio website built using HTML, CSS, and a touch of JavaScript. This project serves as a demonstration of my frontend development skills and showcases my journey from an Electronics & Communication Engineering background into software development.
 
 ##  🔗 Live Demo
 👉 [Visit Portfolio](https://designwithrehana.github.io/Responsive-portfolio/)
 
-## Features
+## ✨ Features
 
 * **Responsive Design:** Adapts to different screen sizes (desktops, tablets, mobile phones).
 * **Smooth Scrolling:** Enhances user experience when navigating between sections.
