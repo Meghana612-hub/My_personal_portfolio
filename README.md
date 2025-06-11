@@ -24,12 +24,6 @@ A simple and responsive personal portfolio website built using HTML, CSS, and a 
 * CSS3 - styling ,responsive layout,animations
 * JavaScript- for smooth scrolling
 * Font Awesome -for icons
-
-## How to View
-
-1.  Clone the repository: `git clone https:/Meghana612-hub/github.com//my-personal-portfolio.git`
-2.  Navigate to the project directory: `cd my-personal-portfolio`
-3.  Open `index.html` in your web browser.
 ---
 
 **Connect with me:**
