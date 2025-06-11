@@ -3,7 +3,7 @@
 A simple and responsive personal portfolio website built using HTML, CSS, and a touch of JavaScript. This project serves as a demonstration of my frontend development skills and showcases my journey from an Electronics & Communication Engineering background into software development.
 
 ##  🔗 Live Demo
-👉 [Visit Portfolio](C:/Users/megha/OneDrive/Desktop/portfolio/my_portfolio/index.html)
+👉 [Visit Portfolio](https://Users/megha/OneDrive/Desktop/portfolio/my_portfolio/index.html)
 
 ## ✨ Features
 
